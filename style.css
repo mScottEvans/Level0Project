@@ -1,0 +1,22 @@
+.Headings{
+    text-align: center;
+}
+body{
+    background-color: rgb(99, 83, 170);
+}
+a{
+    color: rgb(248, 101, 101);
+}
+img{
+    width: 15%;
+    
+}
+#html{
+    color: rgb(255, 224, 122);
+}
+#css{
+    color: rgb(255, 224, 122);
+}
+#js{
+    color: rgb(255, 224, 122);
+}
